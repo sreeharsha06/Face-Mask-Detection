@@ -2,7 +2,7 @@
 This is an AI-based application written in Python using Tensorflow.
 
 # LICENSE
-Release Under [MIT LICENSE](#)
+Release Under [MIT LICENSE](https://github.com/sreeharsha06/Face-Mask-Detection/blob/main/LICENSE)
 
 # Project tree
 ```console
