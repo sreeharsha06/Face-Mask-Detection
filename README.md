@@ -1,6 +1,9 @@
 # Face Mask Detection
 This is an AI-based application written in Python using Tensorflow.
 
+# LICENSE
+Release Under [MIT LICENSE](#)
+
 # Project tree
 ```console
 .
